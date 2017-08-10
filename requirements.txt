@@ -35,6 +35,7 @@ PyYAML==3.12
 pyzmq==16.0.2
 qtconsole==4.3.0
 requests==2.18.3
+selenium==3.4.3
 simplegeneric==0.8.1
 six==1.10.0
 terminado==0.6
